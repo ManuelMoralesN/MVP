@@ -1,0 +1,48 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Lista de cambios no controlados predeterminada",
+			"files": [
+				"C:/Users/dalez/OneDrive/Documentos/GitHub/MVP/MVP/Content/Assets/Linterna/M_Linterna.uasset",
+				"C:/Users/dalez/OneDrive/Documentos/GitHub/MVP/MVP/Content/FirstPerson/Input/Actions/IA_Linterna.uasset",
+				"C:/Users/dalez/OneDrive/Documentos/GitHub/MVP/MVP/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/dalez/OneDrive/Documentos/GitHub/MVP/MVP/Content/Assets/Linterna/DefaultMaterial.uasset",
+				"C:/Users/dalez/OneDrive/Documentos/GitHub/MVP/MVP/Content/Assets/Linterna/defaultMaterial1.uasset",
+				"C:/Users/dalez/OneDrive/Documentos/GitHub/MVP/MVP/Content/Assets/Linterna/defaultMaterial_823209595c9c04cda8328f84d8541395.uasset",
+				"C:/Users/dalez/OneDrive/Documentos/GitHub/MVP/MVP/Content/Assets/Linterna/horror_game_flashlight_download_game-ready_texture_0.uasset",
+				"C:/Users/dalez/OneDrive/Documentos/GitHub/MVP/MVP/Content/Assets/Linterna/horror_game_flashlight_download_game-ready_texture_1.uasset",
+				"C:/Users/dalez/OneDrive/Documentos/GitHub/MVP/MVP/Content/Assets/Linterna/horror_game_flashlight_download_game-ready_texture_2.uasset",
+				"C:/Users/dalez/OneDrive/Documentos/GitHub/MVP/MVP/Content/Assets/Linterna/horror_game_flashlight_download_game-ready_texture_3.uasset",
+				"C:/Users/dalez/OneDrive/Documentos/GitHub/MVP/MVP/Content/FirstPerson/Input/IMC_Default.uasset",
+				"C:/Users/dalez/OneDrive/Documentos/GitHub/MVP/MVP/Content/Assets/Linterna/luz.uasset",
+				"C:/Users/dalez/OneDrive/Documentos/GitHub/MVP/MVP/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/WB/V4ALNTJYOVWM8BU452CKV5.uasset",
+				"C:/Users/dalez/OneDrive/Documentos/GitHub/MVP/MVP/Content/Crosshair/WP_Crosshair.uasset",
+				"C:/Users/dalez/OneDrive/Documentos/GitHub/MVP/MVP/Content/Assets/Cartas/carta_dr_senha_armario_texture_0.uasset",
+				"C:/Users/dalez/OneDrive/Documentos/GitHub/MVP/MVP/Content/Assets/Cartas/carta_dr_senha_armario_texture_1.uasset",
+				"C:/Program Files/UE_5.5/Engine/Plugins/Interchange/Assets/Content/gltf/M_SpecularGlossiness.uasset",
+				"C:/Users/dalez/OneDrive/Documentos/GitHub/MVP/MVP/Content/Assets/Cartas/material.uasset",
+				"C:/Users/dalez/OneDrive/Documentos/GitHub/MVP/MVP/Content/Assets/Cartas/material_1.uasset",
+				"C:/Users/dalez/OneDrive/Documentos/GitHub/MVP/MVP/Content/Assets/Cartas/Object_6.uasset",
+				"C:/Users/dalez/OneDrive/Documentos/GitHub/MVP/MVP/Content/Assets/Cartas/Object_8.uasset",
+				"C:/Users/dalez/OneDrive/Documentos/GitHub/MVP/MVP/Content/Crosshair/Oliver__1_.uasset",
+				"C:/Users/dalez/OneDrive/Documentos/GitHub/MVP/MVP/Content/Crosshair/Oliver__2_.uasset",
+				"C:/Users/dalez/OneDrive/Documentos/GitHub/MVP/MVP/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/P8/0GJ9TLQE2YKOIFZ6YHG33H.uasset",
+				"C:/Users/dalez/OneDrive/Documentos/GitHub/MVP/MVP/Content/Assets/Inspector/BP_InspectInterface.uasset",
+				"C:/Users/dalez/OneDrive/Documentos/GitHub/MVP/MVP/Content/Assets/Inspector/BP_InspectParent.uasset",
+				"C:/Users/dalez/OneDrive/Documentos/GitHub/MVP/MVP/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/HD/J8T8Y2YMUW085PZ2P4PZYP.uasset",
+				"C:/Users/dalez/OneDrive/Documentos/GitHub/MVP/MVP/Content/FirstPerson/Input/Actions/IA_Inspect.uasset",
+				"C:/Users/dalez/OneDrive/Documentos/GitHub/MVP/MVP/Content/FirstPerson/Input/Actions/IA_StopInspect.uasset",
+				"C:/Users/dalez/OneDrive/Documentos/GitHub/MVP/MVP/Content/FirstPerson/Input/Actions/IA_Sprint.uasset",
+				"C:/Users/dalez/OneDrive/Documentos/GitHub/MVP/MVP/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/0B/R755HHT2T7WPDFS6U2D6T3.uasset",
+				"C:/Users/dalez/OneDrive/Documentos/GitHub/MVP/MVP/Content/Assets/Cartas/BP_Interaccion.uasset",
+				"C:/Users/dalez/OneDrive/Documentos/GitHub/MVP/MVP/Content/Assets/Cartas/WP_Cartas.uasset",
+				"C:/Users/dalez/OneDrive/Documentos/GitHub/MVP/MVP/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/XX/0PHU7FO55N6TYB18Z24J0W.uasset",
+				"C:/Users/dalez/OneDrive/Documentos/GitHub/MVP/MVP/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset",
+				"C:/Users/dalez/OneDrive/Documentos/GitHub/MVP/MVP/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/MQ/DVYF2DSL4R7PIYXG49EUIR.uasset",
+				"C:/Users/dalez/OneDrive/Documentos/GitHub/MVP/MVP/Content/Assets/Cartas/BP_InspectInterface.uasset"
+			]
+		}
+	]
+}
