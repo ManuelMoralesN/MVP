@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\dalez\\OneDrive\\Documentos\\GitHub\\MVP\\MVP\\Intermediate\\Source\\MVP.Build.cs",
+		"C:\\Users\\dalez\\OneDrive\\Documentos\\GitHub\\MVP\\MVP\\Intermediate\\Source\\MVP.Target.cs",
+		"C:\\Users\\dalez\\OneDrive\\Documentos\\GitHub\\MVP\\MVP\\Intermediate\\Source\\MVPClient.Target.cs",
+		"C:\\Users\\dalez\\OneDrive\\Documentos\\GitHub\\MVP\\MVP\\Intermediate\\Source\\MVPEditor.Target.cs",
+		"C:\\Users\\dalez\\OneDrive\\Documentos\\GitHub\\MVP\\MVP\\Intermediate\\Source\\MVPServer.Target.cs"
+	],
+	"EngineVersion": "5.5.4"
+}
